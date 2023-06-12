@@ -1,0 +1,26 @@
+[
+    {
+        "key1": {
+		    "int": 1
+	    },
+	    "key2": {
+		    "string": "hello"
+	    }
+    },
+    {
+        "key3": {
+		    "int": 2
+	    },
+	    "key4": {
+		    "string": "world"
+	    }
+    },
+    {
+        "key5": {
+		    "float": 3.14
+	    },
+	    "key6": {
+		    "bool": true
+	    }
+    }
+]
