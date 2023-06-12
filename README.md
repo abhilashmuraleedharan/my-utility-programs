@@ -9,7 +9,6 @@ These codes are intended to serve as a quick reference and help speed up your co
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Contribution](#contribution)
-5. [License](#license)
 
 ## Introduction
 
@@ -27,7 +26,7 @@ To clone the repository, use the following command:
 
 ```bash
 git clone https://github.com/<your-username>/Handy-Coding-Toolbox-in-Go-and-CPP.git
-
+```
 ## Usage
 
 Each program is self-contained and can be run independently. 
