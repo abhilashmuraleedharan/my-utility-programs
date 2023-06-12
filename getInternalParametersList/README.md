@@ -18,10 +18,15 @@ the name of the field to be extracted.
 ### Executing program
 
 - Run the script with the command `go run listExtractor.go <input-file> <output-file> <field-name>`. 
+
 Replace, 
+
 `<input-file>` with the path to your input JSON file, 
+
 `<output-file>` with the path where you want to write the output JSON file, and 
+
 `<field-name>` with the name of the field you want to extract.
 
 For e.g.
-go run listExtractor.go sample_input.json output.json InternalParameter
+
+`go run listExtractor.go sample_input.json output.json InternalParameter`
