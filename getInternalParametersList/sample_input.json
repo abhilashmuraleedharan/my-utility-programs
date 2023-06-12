@@ -1,0 +1,47 @@
+{
+    "bodyTemplate": "Body",
+    "Parameters": [
+        {
+            "ColumnNumber": 1,
+            "Grouping": false,
+            "ColumnName": "Record Type",
+            "ColumnType": "string",
+            "Mandatory": false,
+            "InternalParameter": "Banana",
+            "Size": "Dynamic",
+            "Default": "D",
+            "ColumnDelimiter": "\t",
+            "MandatoryForList": ["11035","11013"],
+            "EncloseWith": ""
+        },
+        {
+            "ColumnNumber": 2,
+            "Grouping": false,
+            "ColumnName": "Record Type 2",
+            "ColumnType": "string",
+            "Mandatory": false,
+            "InternalParameter": "Apple",
+            "Size": "Dynamic",
+            "Default": "D",
+            "ColumnDelimiter": "\t",
+            "MandatoryForList": ["11035","11013"],
+            "EncloseWith": ""
+        },
+        {
+            "ColumnNumber": 3,
+            "Grouping": false,
+            "ColumnName": "Record Type 3",
+            "ColumnType": "string",
+            "Mandatory": false,
+            "InternalParameter": "Orange",
+            "Size": "Dynamic",
+            "Default": "D",
+            "ColumnDelimiter": "\t",
+            "MandatoryForList": ["11035","11013"],
+            "EncloseWith": ""
+        }
+    ],
+    "line_delimiter": "\n",
+    "line_prefix": "",
+    "line_prefix_delimiter": ""
+}
