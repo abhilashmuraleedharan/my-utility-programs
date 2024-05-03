@@ -25,7 +25,7 @@ You can then clone the repository and run the programs locally.
 To clone the repository, use the following command:
 
 ```bash
-git clone https://github.com/<your-username>/Handy-Coding-Toolbox-in-Go-and-CPP.git
+git clone https://github.com/abhilashmuraleedharan/my-utility-programs.git
 ```
 ## Usage
 
